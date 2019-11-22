@@ -1,0 +1,7 @@
+{
+    "schedule": "weekly"
+    "ignoredFiles": [
+        "test/*"
+    ],
+    "aggressiveCompression": "true" // true|false
+}
